@@ -5,7 +5,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 variables:
-  subscription: Visual Studio Enterprise(17b12858-3960-4e6f-a663-a06fdae23428)
+  subscription: 381b31cd-b6ab-4abc-8d09-2b5675b1e448
   resourceGroup: RG001
   storageAccount: strg0013
   container: terraform
