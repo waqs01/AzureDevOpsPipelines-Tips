@@ -15,7 +15,7 @@ resource "azurerm_resource_group" "rg" {
   location = "westeurope"
 }
 
-resource "azurerm_resource_group" "rg" {
+resource "azurerm_resource_group" "rg1" {
   name     = "resourcegroup-test-tbd-7"
   location = "westeurope"
 }
