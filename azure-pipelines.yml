@@ -9,7 +9,7 @@ variables:
   resourceGroup: 'test'
   storageAccount: 'terraformstrg87'
   container: 'terraform'
-  tfstateFile: 'terraform.tfstate'
+  tfstateFile: 'test.tfstate'
   anyTfChanges: false
 
 steps:
